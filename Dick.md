@@ -2,7 +2,7 @@ This is a page I'm writing mostly as an experiment in what *content* might look 
 
 ## What should we call me?
 
-My _government name_ is "Richard." It's a nice enogh name, but I don't get called Richard very often. Recently, I've been called Richard far more often than ever before. I think it's because 1) it is the name string in my professional email address, and 2) it is how I usually address the court on the record.
+My _government name_ is "Richard." It's a nice enough name, but I don't get called Richard very often. Recently, I've been called Richard far more often than ever before. I think it's because 1) it is the name string in my professional email address, and 2) it is how I usually address the court on the record.
 
 Plenty of nicknames for Richard. I grew up as **Ricky**, which is all anyone called me for a long time. But in college, I decided I ought to honor my namesake, Dick. **Dick** was my grandfather. He died when I was in the womb—in fact, I gave my first kick about 45 minutes afterward. Failing to see any downsides, I introduced myself in a few classes as Dick. It was a lark. 
 
