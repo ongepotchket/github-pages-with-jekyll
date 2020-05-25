@@ -1,9 +1,9 @@
 theme: minima
 title: Ricky Zacharias
 author: Ricky Zacharias
-email: blocked@definitely.website
+email: ricky@definitely.website
 description: > # this means to ignore newlines until "baseurl:"
-  I am a public defender and other things. I live in Philadelphia, which is nice but also weird.
+  Philadelphia public defender and influencer (of my girlfriend's cat)
 
 # social links
 twitter_username: rickyz # DO NOT include the @ character, or else the build will fail!
