@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is a good website
 
-I'm glad you are here. I plan to talk about ...
+It is the online presence of a boy who lives with three girls and three cats.
