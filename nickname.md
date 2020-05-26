@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dick
+permalink: /nickname/
+---
+
 This is a page I'm writing mostly as an experiment in what *content* might look like if I decided to be a *content-producing influencer* of innumerable follows.
 
 ## What should we call me?
