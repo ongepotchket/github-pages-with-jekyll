@@ -20,6 +20,9 @@ I don't know, and nobody does, and it doesn't matter much anyway. You can call m
 
 ## Epilogue
 
-Almost immediately after I began seeing my partner, I started calling her by a nickname that 1) didn't sound like her name, 2) isn't a normal nickname, and 3) was the result of an in-joke with her but without her consent. If you think this makes me a bad dude, I think maybe you're jumping to conclusions, but I hear you.
+Almost immediately after I began seeing my partner, I started calling her by a nickname that 
+1) didn't sound like her name, 
+2) isn't a normal nickname, and 
+3) was the result of an in-joke with her but without her consent. 
 
-Anyway, she named her cat after an internet start-up, so nobody is exactly innocent here.
+If you think this makes me a bad dude, I think maybe you're jumping to conclusions, but I hear you. Anyway, she named her cat after an internet start-up, so nobody is exactly innocent here.
