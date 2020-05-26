@@ -2,4 +2,6 @@ I'm a public defender and other things. I live in Philly, which is nice but also
 
 I don't know what to do with a website, but it feels like once I've put one together, I might have better ideas. I'm worried that it will be less substance and more procedure, another way to merely collect and re-present[^1] information in an accessible or pretty way.
 
+Would you like to see my brother's page? [It's nicer than mine](http://rzach.me).
+
 [^1]: Unhyphenated representing is my day job.
