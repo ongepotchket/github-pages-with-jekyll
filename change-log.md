@@ -1,5 +1,3 @@
-## Unofficial changelog
-
 This is sketchy but pretty close to true events.
 
 * 2000-ish: Developed first personal website. 
