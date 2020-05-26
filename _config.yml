@@ -4,9 +4,9 @@ author: Ricky Zacharias
 email: ricky@definitely.website
 description: > # this means to ignore newlines until "baseurl:"
   Philadelphia public defender and influencer (of my girlfriend's cat)
-header_pages:
-  - index.md
-  - Dick.md
+#header_pages:
+#  - index.md
+#  - Dick.md
 
 # social links
 twitter_username: rickyz # DO NOT include the @ character, or else the build will fail!
