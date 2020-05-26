@@ -1,10 +1,10 @@
 ---
 layout: page
-title: logchangelog
+title: log-changelog
 permalink: /changelog/
 ---
 
-This is sketchy but pretty close to true events.
+This is sketchy but pretty close to true events, maybe a pale reënactment of a Jia Tolentino essay.
 
 * **2000-ish**: Developed first personal website. 
   * Copied bits of javascript I'd found to make a page that offered different ways of crashing your computer. For instance, one was a button that would minimize the window. The page would automatically maximize whenever minimized, and minimize whenever maximized. This was sufficient, in 1999 if I am right about the date, to simply crash the computer.
