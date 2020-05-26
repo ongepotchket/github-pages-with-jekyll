@@ -1,5 +1,7 @@
 theme: minima
-title: Ricky Zacharias
+minima:
+  skin: dark
+title: rickylog
 author: Ricky Zacharias
 email: ricky@definitely.website
 description: > # this means to ignore newlines until "baseurl:"
