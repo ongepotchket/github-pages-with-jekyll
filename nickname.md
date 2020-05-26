@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dick
+title: namelog
 permalink: /nickname/
 ---
 
